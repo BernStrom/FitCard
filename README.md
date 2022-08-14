@@ -36,7 +36,7 @@ To view the card rules in-app, the user can simply tap on the **Rules** button t
 
 ## App preview
 
-
+https://user-images.githubusercontent.com/65307853/184556960-722d10e6-ca48-4437-8ac5-de801657f9bd.mp4
 
 ## Trying it yourself
 
